@@ -1,16 +1,15 @@
 import React from "react"
 import Navbar from "./components/Navbar"
 import Hero from "./components/Hero"
-/*
-Challenge: Build the Hero component.
-Check the Figma file for the design specifics.
-*/
+import Card from "./components/Card"
 
 export default function App() {
+            // <Hero />
     return (
         <div>
             <Navbar />
             <Hero />
+            <Card />
         </div>
     )
 }

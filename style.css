@@ -44,3 +44,54 @@ nav {
     margin-right: 70px;
     max-width: 80%;
 }
+.star{
+    margin-top: 9px;
+    height: .8rem;
+}
+.light{
+    font-family: poppins;
+    color: #918E9B;
+    font-size: 12px;
+    font-weight: 300px;
+    line-height: 13.2px;
+}
+.card{
+    margin-top: 49px;
+    margin-left: 36px;
+}
+.rating{
+    font-family: poppins;
+    color: #222222;
+    font-size: 12px;
+    font-weight: 300px;
+}
+.card-img{
+    margin-top: 20px;
+    width: 176px;
+    height: 235px;
+    border-radius: 9px;
+    
+}
+.descrip{
+    font-size: 12px;
+    font-weight: 300px;
+    line-height: 13.2px;
+}
+.status{
+    height: 20px;
+    width: 61px;
+    background-color: white;
+    position: absolute;
+    top: 26px;
+    left: 7px;
+    font-family: poppins;
+    font-size: 10.24px;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 2px;
+    line-height: 110%;
+    color: #222222;
+}
+.img-cont{
+    position: relative;
+}
